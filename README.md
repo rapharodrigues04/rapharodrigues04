@@ -1,6 +1,6 @@
 ### Olá, eu sou o Raphael Rodrigues 👋
 
-- 🔭 Apaixonado por tecnologia Javascript / Java e Python
+- 🔭 Apaixonado por tecnologia - Javascript, Java e Python
 - 🌱 Aprofundando os conhecimentos Java e Python
 
  <div>
@@ -28,6 +28,8 @@
    <a href = "https://web.whatsapp.com/send?phone=5581999641360"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/raphaelrodriguespe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/raphael.rodrigues.1806/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>    
+ 
+ ##
  
  ![Snake animation](https://github.com/rapharodrigues04/rapharodrigues04/blob/output/github-contribution-grid-snake.svg)
  
