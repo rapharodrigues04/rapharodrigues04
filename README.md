@@ -1,7 +1,7 @@
 ### Olá, eu sou o Raphael Rodrigues 👋
 
-- 🔭 Apaixonado por tecnologia - Javascript, Java e Python
-- 🌱 Aprofundando os conhecimentos Java e Python
+- 🔭 Apaixonado por tecnologia - HTML, CSS, Javascript, React, Node, Java e Python
+- 🌱 Aprofundando os conhecimentos na parte de web
 
  <div>
   <a href="https://github.com/rapharodrigues04">
