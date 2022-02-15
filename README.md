@@ -33,6 +33,6 @@
  
  ##
  
- ![Snake animation](https://github.com/rapharodrigues04/rapharodrigues04/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+ 
+![Raphael Rodrigues ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=rapharodrigues04&custom_title=Raphael%20Contribution%20Graph&theme=react-dark)
