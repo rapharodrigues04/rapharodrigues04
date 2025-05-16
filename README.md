@@ -34,5 +34,3 @@
  ##
  
 </div>
- 
-![Raphael Rodrigues ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=rapharodrigues04&custom_title=Raphael%20Contribution%20Graph&theme=react-dark)
